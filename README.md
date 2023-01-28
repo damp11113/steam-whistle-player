@@ -1,5 +1,14 @@
 # steam-whistle-player
+## ScreenShot
 
+![image 1](https://github.com/damp11113/steam-whistle-player/blob/main/screenshot/2023-01-28_19.37.28.png?raw=true)
+![image 2](https://github.com/damp11113/steam-whistle-player/blob/main/screenshot/2023-01-28_19.50.30.png?raw=true)
+![image 3](https://github.com/damp11113/steam-whistle-player/blob/main/screenshot/2023-01-28_19.51.09.png?raw=true)
+![image 4](https://github.com/damp11113/steam-whistle-player/blob/main/screenshot/2023-01-28_19.51.14.png?raw=true)
+![image 5](https://github.com/damp11113/steam-whistle-player/blob/main/screenshot/2023-01-28_19.52.00.png?raw=true)
+
+
+### Q&A
 #### How to place "steam_whistle_player.nbt" into your world
 1. Give a "Schematic Table" and "Empty Schematic"
 2. Insert "Empty Schematic" to "Schematic Table"
