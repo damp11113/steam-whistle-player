@@ -1,8 +1,16 @@
 # steam-whistle-player
 
 cc script folder: ./place on cc world folder
+
 schematics file: steam_whistle_player.nbt
+
 midi to ccmidi: converter.py
+
+## Video
+
+[![video 1](https://img.youtube.com/vi/i4o8S4f9Wa0/0.jpg)](https://www.youtube.com/watch?v=i4o8S4f9Wa0)
+[![video 2](https://img.youtube.com/vi/JXpCUALVksE/0.jpg)](https://www.youtube.com/watch?v=JXpCUALVksE)
+
 
 ## ScreenShot
 
