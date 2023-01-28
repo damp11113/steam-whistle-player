@@ -1,4 +1,9 @@
 # steam-whistle-player
+
+cc script folder: ./place on cc world folder
+schematics file: steam_whistle_player.nbt
+midi to ccmidi: converter.py
+
 ## ScreenShot
 
 ![image 1](https://github.com/damp11113/steam-whistle-player/blob/main/screenshot/2023-01-28_19.37.28.png?raw=true)
