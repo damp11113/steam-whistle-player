@@ -6,6 +6,8 @@ schematics file: steam_whistle_player.nbt
 
 midi to ccmidi: converter.py
 
+Require mods: Create, CC Tweaked, SecurityCraft
+
 ## Video
 
 [![video 1](https://img.youtube.com/vi/i4o8S4f9Wa0/0.jpg)](https://www.youtube.com/watch?v=i4o8S4f9Wa0)
