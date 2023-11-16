@@ -23,7 +23,7 @@ Require mods: Create, CC Tweaked, SecurityCraft
 ![image 5](https://github.com/damp11113/steam-whistle-player/blob/main/screenshot/2023-01-28_19.52.00.png?raw=true)
 
 
-### Q&A
+### FAQ
 #### How to place "steam_whistle_player.nbt" into your world
 1. Give a "Schematic Table" and "Empty Schematic"
 2. Insert "Empty Schematic" to "Schematic Table"
